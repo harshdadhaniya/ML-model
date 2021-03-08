@@ -1,8 +1,10 @@
 # ML-model
 
 Kindly go through the Jupyter notebook (.ipynb) file for the entire project.
+
 The project was orginally carried out in Nov-2018 when I started learning ML with python.
-The main dataset can be found from kaggle: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
+The main dataset (Bengaluru_House_Data.csv) can also be downloaded from kaggle: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
 The main objective of the study to learn following things.
 1. Get more familiarize with libraries like numpy, pandas, matplotlib etc
